@@ -1,10 +1,10 @@
-# 📊 Singapore Housing Market Insights
+# Singapore Housing Market Insights
 
 **By Mya Thet Mon**
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project analyzes Singapore’s HDB housing market using datasets from data.gov.sg. It explores **price trends, affordability, sales vs rental patterns, and household distribution** across different flat types.
 
@@ -22,7 +22,7 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python
 * NumPy
@@ -30,9 +30,9 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-### 💰 Price Trends
+#### Price Trends
 
 * Prices increase with flat size
 * Maximum prices show **high volatility**
@@ -40,7 +40,7 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-### 🏙️ Affordability by Town
+#### Affordability by Town
 
 * Most affordable: **Sengkang**
 * More expensive towns: **Jurong East, Hougang, Tengah**
@@ -48,21 +48,21 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-### 📈 Market Trends
+#### Market Trends
 
 * Sales fluctuate significantly across years
 * Rentals remain **low and stable**
 
 ---
 
-### 🏠 Sales vs Rental Distribution
+#### Sales vs Rental Distribution
 
 * Sales dominated by **4-room flats (~50%)**
 * Rentals dominated by **1-room & 2-room flats**
 
 ---
 
-### 👨‍👩‍👧 Household Distribution
+#### Household Distribution
 
 * Most households live in:
 
@@ -72,7 +72,7 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-## 📊 Visualizations
+### Visualizations
 
 * Boxplot (price variation)
 * Bar chart (town affordability)
@@ -84,7 +84,7 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Missing values treated as 0
 * Limited time range
@@ -92,7 +92,7 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add machine learning (price prediction)
 * Include resale HDB data
@@ -100,7 +100,7 @@ Source: [https://data.gov.sg](https://data.gov.sg)
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 The HDB market shows:
 
