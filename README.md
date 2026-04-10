@@ -12,13 +12,11 @@ The goal is to uncover insights into housing demand and market behavior through 
 
 ---
 
-## 📂 Datasets
+## Datasets
 
-* Price Range of HDB Flats Offered
-* Number of Sold and Rented HDB Residential Units
-* HDB Households by Flat Type
-
-Source: [https://data.gov.sg](https://data.gov.sg)
+* Price Range of HDB Flats Offered From https://data.gov.sg/datasets/d_2d493bdcc1d9a44828b6e71cb095b88d/view
+* Number of Sold and Rented HDB Residential Units From https://data.gov.sg/datasets/d_67966e5fd5dce14cf9fa5f0bc5164faf/view
+* HDB Households by Flat Type From https://data.gov.sg/datasets/d_db69c88a1ff684356b8b38dc0e9b432c/view
 
 ---
 
