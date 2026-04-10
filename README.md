@@ -1,11 +1,6 @@
-# sg-housing-insights
-Got it — here’s a **clean GitHub-ready README.md** (proper formatting, concise, professional 👇)
-
----
-
 # 📊 Singapore Housing Market Insights
 
-**By Mya Thet Mon (P2338925)**
+**By Mya Thet Mon**
 
 ---
 
@@ -116,8 +111,3 @@ The HDB market shows:
 This project provides useful insights into **housing affordability and demand patterns in Singapore**.
 
 ---
-
-If you want, I can also:
-
-* help you write a **good GitHub repo title + description**
-* or fix your code errors before you upload (there are a few small ones)
